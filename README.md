@@ -11,15 +11,15 @@ A C++ compiler (g++ or clang++)
 ```bash
 g++ pascal_triangle.cpp -o app.exe
 ```
-##Command Prompt:
+#Command Prompt:
 ```bash
 app.exe
 ```
-##PowerShell:
+#PowerShell:
 ```bash
 .\app.exe
 ```
-##macOS/LINUX
+##macOS/LINUX:
 ```bash
 g++ pascal_triangle.cpp -o app
 ./app
